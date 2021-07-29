@@ -1,11 +1,10 @@
-### Olá! Eu sou o Matheus Pereira 1
+ ### Olá! Eu sou o Matheus Pereira 1
 
 
 
 - 🔭 Hoje procuro meu primeiro estágio como programador
 - 🌱 Estudando Python
 - 😄 Pronomes : ele/dele
-
  <div>
   <a href="https://github.com/mathpereira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathpereira1&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
