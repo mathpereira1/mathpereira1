@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Hoje procuro meu primeiro estágio como programador
-- 🌱 Estudando Python
+- 🔭 Trainee Una Capital 
+- 🌱 Estudando Python, Django, JavaScript
+- 🐱‍👤 Sou novo na área, mas qualquer dúvida pode perguntar e evoluiremos juntos
 - 😄 Pronomes : ele/dele
  <div>
   <a href="https://github.com/mathpereira1">
