@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Trainee Una Capital 
-- 🌱 Estudando Python, Django, JavaScript
+- 🔭 Trainee na Una Capital 
+- 🌱 Estudando Python, Django, PostgreSQL
 - 🐱‍👤 Sou novo na área, mas qualquer dúvida pode perguntar e evoluiremos juntos
 - 😄 Pronomes : ele/dele
  <div>
