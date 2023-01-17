@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Trainee na Una Capital 
-- 🌱 Estudando Python, Django, PostgreSQL
+- 🔭 Estudo Ciências da Computação na UFABC
+- 🌱 Python, Django, PostgreSQL
 - 🐱‍👤 Sou novo na área, mas qualquer dúvida pode perguntar e evoluiremos juntos
 - 😄 Pronomes : ele/dele
  <div>
