@@ -4,6 +4,7 @@
 
 - 🔭 Estudo Ciências da Computação na UFABC
 - 🌱 Python, Django, PostgreSQL
+- 📓 Salesforce: Hiker 
 - 🐱‍👤 Sou novo na área, mas qualquer dúvida pode perguntar e evoluiremos juntos
 - 😄 Pronomes : ele/dele
 <!--  <div>
