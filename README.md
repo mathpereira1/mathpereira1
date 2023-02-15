@@ -6,11 +6,11 @@
 - 🌱 Python, Django, PostgreSQL
 - 🐱‍👤 Sou novo na área, mas qualquer dúvida pode perguntar e evoluiremos juntos
 - 😄 Pronomes : ele/dele
- <div>
+<!--  <div>
   <a href="https://github.com/mathpereira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathpereira1&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpereira1&layout=compact&langs_count=7&theme=darcula"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!---<img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">--->
