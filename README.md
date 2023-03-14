@@ -18,11 +18,11 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=django,flask,nodejs,bootstrap,postgres,mysql,mongodb,redis,sqlite,aws,docker,git,cloudflare,nginx,selenium,&theme=dark)](https://skillicons.dev)
-<!--  <div>
+ <div>
   <a href="https://github.com/mathpereira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathpereira1&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpereira1&layout=compact&langs_count=7&theme=darcula"/>
-</div> -->
+</div>
 
   
 <div>
