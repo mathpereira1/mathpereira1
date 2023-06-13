@@ -3,9 +3,9 @@
 
 
 - 🔭 Estudo Ciências da Computação na UFABC
-- 📓 Procuro Oportunidades de entrada na área de TI (Estágios/Júnior)
+- 📓 Trabalho com desenvolvimento .NET no Grupo Saphyr
 - 🌱 Minha stack inclui (__com experiência profissional__): 
-  -  Django, Django Rest Framework, Flask, node.JS
+  -  Django, Django Rest Framework, Flask, node.JS, .NET
   -  Bootstrap, HTML, CSS
   -  PostgreSQL, MySQL, MongoDB, Redis, SQLite
   -  AWS S3, Docker
