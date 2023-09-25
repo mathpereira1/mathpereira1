@@ -3,11 +3,11 @@
 
 
 - 🔭 Estudo Ciências da Computação na UFABC
-- 📓 Trabalho com desenvolvimento .NET no Grupo Saphyr
+- 📓 Trabalho com desenvolvimento .NET na Alqia
 - 🌱 Minha stack inclui (__com experiência profissional__): 
-  -  Django, Django Rest Framework, Flask, node.JS, .NET
+  -  Django, .NET
   -  Bootstrap, HTML, CSS
-  -  PostgreSQL, MySQL, MongoDB, Redis, SQLite
+  -  PostgreSQL, MySQL, MongoDB, Redis, SQLite, SQLServer
   -  AWS S3, Docker
   -  Git, Gitlab/Github
   -  Proeficiência em Python e C/C++, conhecimentos em Javascript e Java
